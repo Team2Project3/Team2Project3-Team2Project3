@@ -27,7 +27,7 @@ pipeline {
 
                   
                     
-                        sh 'aws eks update-kubeconfig --region us-east-1 --name VETTEC'
+                        sh 'aws eks update-kubeconfig --region us-east-1 --name teamtwo'
 
 
             }
